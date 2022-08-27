@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Caio Alves</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on **portfolio**
+- 🔭 I’m currently working on my **Portfolio**
 
-- 🌱 I’m currently learning **JavaScript, React.js**
+- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **HTML, CSS**
 
